@@ -80,11 +80,10 @@ p{
 }
 
 footer{
-    background-color: rgb(110, 35, 7);
     padding: 15px;
     width: 960px;
     height: 60px;
-    color: white;
+    color: #87423c;
     border-bottom-left-radius: 15px;
     border-bottom-right-radius: 15px;
 }
